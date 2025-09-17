@@ -1,1 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3zOHVIfr)
+# Pet Rock Game
+
+A simple text-based virtual pet game where you take care of your very own pet rock.  
+Keep your rock happy, fed, and energized — or face the consequences.
+
+---
+
+## Overview
+
+**Pet Rock Game** is a terminal-based virtual pet simulator written in Python. You name and care for a pet rock by monitoring three core stats: **Happiness**, **Hunger**, and **Energy**. Make decisions each turn to keep your rock alive and content. Unexpected random events can change the course of the game.
+
+---
+
+## Requirements
+
+- Python 3.7 or later  
+- Runs in a terminal / command line environment
+
+---
+
+## Installation
+
+1. Ensure Python 3.7+ is installed:
+   ```bash
+   python --version
